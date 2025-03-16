@@ -2,6 +2,7 @@ import Image from 'next/image';
 import HeartRatings from '../HeartRatings/HeartRatings';
 import ProfileIcon from '@/app/(home)/mypage/components/ProfileIcon/ProfileIcon';
 
+// 배포 테스트
 export default function ReviewCard({
 	children,
 	isDetailPage = false,
