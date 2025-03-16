@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import HeartRatings from '../HeartRatings/HeartRatings';
 
+// 배포 테스트
 export default function ReviewCard({
 	children,
 	isDetailPage = false,
